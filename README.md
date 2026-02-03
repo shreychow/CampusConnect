@@ -8,7 +8,7 @@ CampusConnect will address the following problems: students will not have to wai
 - staff
 
 ## Features 
-- Realtime tracking of busses
+- Realtime tracking of shuttles
 - interactive map showing route
 - estimated arrival time
 - delay notification
